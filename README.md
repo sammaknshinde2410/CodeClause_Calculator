@@ -1,5 +1,5 @@
 # CodeClause_Calculator
-##This Repository contains a MusicPlayer Application Project using Python Programming Language.
+##This Repository contains a Calculator Application Project built using Python Programming Language.
 
 ###HOW TO USE THIS APP
 
